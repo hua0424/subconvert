@@ -1,0 +1,5 @@
+PROCESS-NAME,com.android.vending
+# 拷贝漫画
+PROCESS-NAME,com.comicbus
+# tiktok
+PROCESS-NAME,com.zhiliaoapp.musically
