@@ -1,1 +1,2 @@
 # subconvert
+配置clash转换文件和漏网之鱼的list
