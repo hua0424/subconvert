@@ -1,6 +1,5 @@
 PROCESS-NAME,com.android.vending
-# 拷贝漫画
-PROCESS-NAME,com.comicbus
+
 DOMAIN-SUFFIX,mangafunb.fun
 DOMAIN-SUFFIX,googletagmanager.com
 # tiktok
