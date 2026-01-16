@@ -1,3 +1,6 @@
 # gemini
+PROCESS-NAME,language_server_windows_x64.exe
+PROCESS-NAME,Antigravity.exe
+PROCESS-NAME,Cursor.exe
 # test
 DOMAIN-KEYWORD,myhuahome.top
