@@ -1,6 +1,10 @@
-# gemini
+# processname
 PROCESS-NAME,language_server_windows_x64.exe
 PROCESS-NAME,Antigravity.exe
 PROCESS-NAME,Cursor.exe
+PROCESS-NAME,opencode.exe
+
+# domain
+DOMAIN-SUFFIX,googleapis.com
 # test
-DOMAIN-KEYWORD,myhuahome.top
+#DOMAIN-KEYWORD,myhuahome.top
