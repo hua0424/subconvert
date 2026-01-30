@@ -6,5 +6,6 @@ PROCESS-NAME,opencode.exe
 
 # domain
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com
 # test
 #DOMAIN-KEYWORD,myhuahome.top
